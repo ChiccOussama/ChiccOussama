@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Tarek Slimani</a></h1>
-<h3 align="center">A passionate Mobile App and software developer from Algeria &#127470;&#127475</h3>
+<h3 align="center">A passionate Mobile App and ui/ux and software developer from Algeria &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -12,17 +12,15 @@ Tarek Slimani</a></h1>
 
 - 🔭 I’m currently working in <a href="http://www.ooredoo.dz/Ooredoo/Algerie/particuliers?gclid=Cj0KCQjwzdOlBhCNARIsAPMwjbzDcwWs-rBQ27_Wyw6CjTEDxWEAq6nGyPmXoRNoXO5QeKQI7BQkeYkaArSgEALw_wcB" target="blank">Ooredoo Mobile Operator</a>
 
-- 🌱 I’m currently Working on Mobile App(Flutter)
+- 🌱 I’m currently Working on Mobile App (Flutter).
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning firebase && sqflite <a href="https://github.com/ChiccOussama?tab=repositories" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning Firebase & Sqflite <a href="https://github.com/ChiccOussama?tab=repositories" target="blank">DailyNotes</a>
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 💬 Ask me about ** Flitter & C# **
 
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **slimanitarek@yahoo.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
