@@ -10,13 +10,13 @@ Tarek Slimani</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 I’m currently working in <a href="http://www.ooredoo.dz/Ooredoo/Algerie/particuliers?gclid=Cj0KCQjwzdOlBhCNARIsAPMwjbzDcwWs-rBQ27_Wyw6CjTEDxWEAq6nGyPmXoRNoXO5QeKQI7BQkeYkaArSgEALw_wcB" target="blank">Ooredoo Mobile Operator</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working on Mobile App(Flutter)
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning firebase && sqflite <a href="https://github.com/ChiccOussama?tab=repositories" target="blank">100DaysOfSwift</a>
 
 - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
