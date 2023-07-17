@@ -39,6 +39,9 @@ Tarek Slimani</a></h1>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCzpa0T3t6edSzdyHV5b7g7g">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
       </div>
+      <br></br>
+      <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="slimanitarek" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://dz.linkedin.com/in/slimanitarek?trk=profile-badge">Tarek Slimani</a></div>
+              
 
 </p>
 
